@@ -121,13 +121,19 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+<<<<<<< HEAD
 --- !u!1 &278237161
 GameObject:
   m_ObjectHideFlags: 0
+=======
+--- !u!1 &278237161 stripped
+GameObject:
+>>>>>>> Darwin
   m_CorrespondingSourceObject: {fileID: 7060671674292223613, guid: 5fbff76e5e59dc844a7bfb5de14bb9d6,
     type: 3}
   m_PrefabInstance: {fileID: 7060671674551382420}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   serializedVersion: 6
   m_Component:
   - component: {fileID: 278237167}
@@ -143,6 +149,8 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+=======
+>>>>>>> Darwin
 --- !u!114 &278237162
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -155,6 +163,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 49b288e23f33dde4e98b74cf243728fd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   jumpForce: 6
   rigidBody: {fileID: 0}
 --- !u!95 &278237163
@@ -229,6 +238,8 @@ SpriteRenderer:
   m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+=======
+>>>>>>> Darwin
 --- !u!50 &278237165
 Rigidbody2D:
   serializedVersion: 4
@@ -266,6 +277,7 @@ CapsuleCollider2D:
   m_Offset: {x: -0.023168206, y: 0.017376125}
   m_Size: {x: 0.66247773, y: 1.4252478}
   m_Direction: 0
+<<<<<<< HEAD
 --- !u!4 &278237167
 Transform:
   m_ObjectHideFlags: 0
@@ -417,6 +429,8 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> Darwin
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -545,7 +559,11 @@ PrefabInstance:
     - target: {fileID: 2745546407557179047, guid: fb02472163bdd6e42bc95b2e4d426f7c,
         type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
       value: 2
+=======
+      value: 1
+>>>>>>> Darwin
       objectReference: {fileID: 0}
     - target: {fileID: 2745546407557179047, guid: fb02472163bdd6e42bc95b2e4d426f7c,
         type: 3}
