@@ -1,0 +1,13 @@
+<data>
+    <element title="MainView1">Nombre del juego</element>
+    <element title="MainView2">Iniciar</element>
+    <element title="MainView3">Reanudar</element>
+    <element title="MainView4">Configuraciones</element>
+    
+    <element title="SettingsView1">Configuraciones</element>
+    <element title="SettingsView2">idioma</element>
+    <element title="SettingsView3">Español</element>
+    <element title="SettingsView4">Ingles</element>
+    <element title="SettingsView5">Atras</element>
+    
+</data>

@@ -1,0 +1,12 @@
+﻿<data>
+    <element title="MainView1">Game Name</element>
+    <element title="MainView2">Start</element>
+    <element title="MainView3">Restart</element>
+    <element title="MainView4">Settings</element>
+
+    <element title="SettingsView1">Settings</element>
+    <element title="SettingsView2">Languaje</element>
+    <element title="SettingsView3">Spanish</element>
+    <element title="SettingsView4">English</element>
+    <element title="SettingsView5">Back</element>
+</data>

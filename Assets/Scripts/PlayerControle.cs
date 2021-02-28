@@ -28,6 +28,7 @@ public class PlayerControle : MonoBehaviour
             Jump();
         
         print(Input.GetAxis("Horizontal"));
+        Input.GetAxis("Cancel");
 
     }
 
