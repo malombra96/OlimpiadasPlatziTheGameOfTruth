@@ -11,11 +11,11 @@ public class CheckFloor : MonoBehaviour
         player = GetComponentInParent<PlayerControle>();
     }
     
-    void OnCollisionStay2D(Collision2D col){
-        player.grounded = true;
-         
-    }
-    void OnCollisionExit2D(Collision2D col){
-        player.grounded = false;
-    }
+    // void OnCollisionStay2D(Collision2D col){
+    //     player.grounded = true;
+    //      
+    // }
+    // void OnCollisionExit2D(Collision2D col){
+    //     player.grounded = false;
+    // }
 }
