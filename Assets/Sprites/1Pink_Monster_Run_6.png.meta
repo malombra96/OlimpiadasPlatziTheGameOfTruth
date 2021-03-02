@@ -1,22 +1,25 @@
 fileFormatVersion: 2
-guid: e1b4688cd0568d34d8e63783d87dae66
+guid: ea5f4ca5e537ae744953b96260528e80
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 253260757170537619
-    second: Jump-1
+      213: 4609454594883860815
+    second: 1Pink_Monster_Run_6_0
   - first:
-      213: 1474993154240831084
-    second: Jump-2
+      213: 1333284714595553349
+    second: 1Pink_Monster_Run_6_1
   - first:
-      213: -5182542337383004650
-    second: Jump-3
+      213: -1913749326896825953
+    second: 1Pink_Monster_Run_6_2
   - first:
-      213: -6597022706219273052
-    second: Jump-4
+      213: 5084050319110273807
+    second: 1Pink_Monster_Run_6_3
   - first:
-      213: 8498482211141690517
-    second: Jump-5
+      213: -4569626685208067213
+    second: 1Pink_Monster_Run_6_4
+  - first:
+      213: -4358580612082994134
+    second: 1Pink_Monster_Run_6_5
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -98,29 +101,17 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Jump-1
+      name: 1Pink_Monster_Run_6_0
       rect:
         serializedVersion: 2
-        x: 48
-        y: 384
-        width: 108
-        height: 156
+        x: 28
+        y: 3
+        width: 76
+        height: 102
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,20 +119,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 39442ba1153c38300800000000000000
-      internalID: 253260757170537619
+      spriteID: f493858388218ff30800000000000000
+      internalID: 4609454594883860815
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jump-2
+      name: 1Pink_Monster_Run_6_1
       rect:
         serializedVersion: 2
-        x: 240
-        y: 384
-        width: 102
-        height: 144
+        x: 159
+        y: 2
+        width: 73
+        height: 110
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -149,62 +140,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c6e58ac757a387410800000000000000
-      internalID: 1474993154240831084
+      spriteID: 5401de54267c08210800000000000000
+      internalID: 1333284714595553349
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jump-3
+      name: 1Pink_Monster_Run_6_2
       rect:
         serializedVersion: 2
-        x: 48
-        y: 192
-        width: 102
-        height: 144
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6160dd2d339e318b0800000000000000
-      internalID: -5182542337383004650
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Jump-4
-      rect:
-        serializedVersion: 2
-        x: 240
-        y: 204
-        width: 102
-        height: 150
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4a43d9c1dcaa274a0800000000000000
-      internalID: -6597022706219273052
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Jump-5
-      rect:
-        serializedVersion: 2
-        x: 50
+        x: 284
         y: 0
-        width: 108
-        height: 156
+        width: 76
+        height: 104
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -212,8 +161,71 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 594a31d4b8ca0f570800000000000000
-      internalID: 8498482211141690517
+      spriteID: f99fb2d602ff075e0800000000000000
+      internalID: -1913749326896825953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Pink_Monster_Run_6_3
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 2
+        width: 76
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b77ca24dc2e8640800000000000000
+      internalID: 5084050319110273807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Pink_Monster_Run_6_4
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 4
+        width: 72
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3730700adbc6590c0800000000000000
+      internalID: -4569626685208067213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Pink_Monster_Run_6_5
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 72
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2473eba6063383c0800000000000000
+      internalID: -4358580612082994134
       vertices: []
       indices: 
       edges: []

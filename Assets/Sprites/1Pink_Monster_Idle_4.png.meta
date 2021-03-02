@@ -1,22 +1,19 @@
 fileFormatVersion: 2
-guid: 6648dea4ec661aa439729ab0c45de55c
+guid: cd42c34bf8fd6a341baedea8ada8ee06
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1357268513112319750
-    second: Run(2)-1
+      213: 4105412062145230523
+    second: 1Pink_Monster_Idle_4_0
   - first:
-      213: -2455516746978606379
-    second: Run(2)-2
+      213: -1675846403108802094
+    second: 1Pink_Monster_Idle_4_1
   - first:
-      213: 9138455863388568353
-    second: Run(2)-3
+      213: -6884553189988280874
+    second: 1Pink_Monster_Idle_4_2
   - first:
-      213: -4721133759358542172
-    second: Run(2)-4
-  - first:
-      213: -6132344460684080650
-    second: Run(2)-5
+      213: -2633611620294278304
+    second: 1Pink_Monster_Idle_4_3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -98,29 +95,17 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Run(2)-1
+      name: 1Pink_Monster_Idle_4_0
       rect:
         serializedVersion: 2
-        x: 48
-        y: 192
-        width: 78
-        height: 168
+        x: 28
+        y: 0
+        width: 68
+        height: 112
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,20 +113,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 607e1e4858cf5d210800000000000000
-      internalID: 1357268513112319750
+      spriteID: bb635c4e48a59f830800000000000000
+      internalID: 4105412062145230523
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run(2)-2
+      name: 1Pink_Monster_Idle_4_1
       rect:
         serializedVersion: 2
-        x: 252
-        y: 192
+        x: 156
+        y: 0
+        width: 68
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1759c43923eb8e0800000000000000
+      internalID: -1675846403108802094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Pink_Monster_Idle_4_2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
         width: 72
-        height: 168
+        height: 116
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -149,41 +155,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5d2415c47804cedd0800000000000000
-      internalID: -2455516746978606379
+      spriteID: 6d5577189572570a0800000000000000
+      internalID: -6884553189988280874
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run(2)-3
+      name: 1Pink_Monster_Idle_4_3
       rect:
         serializedVersion: 2
-        x: 444
-        y: 192
-        width: 78
-        height: 168
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 12b7cdca03152de70800000000000000
-      internalID: 9138455863388568353
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Run(2)-4
-      rect:
-        serializedVersion: 2
-        x: 54
+        x: 404
         y: 0
-        width: 78
-        height: 168
+        width: 80
+        height: 116
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -191,29 +176,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4ae54580cd92b7eb0800000000000000
-      internalID: -4721133759358542172
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Run(2)-5
-      rect:
-        serializedVersion: 2
-        x: 240
-        y: 0
-        width: 78
-        height: 168
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6f9479c143985eaa0800000000000000
-      internalID: -6132344460684080650
+      spriteID: 063c4005f28837bd0800000000000000
+      internalID: -2633611620294278304
       vertices: []
       indices: 
       edges: []
