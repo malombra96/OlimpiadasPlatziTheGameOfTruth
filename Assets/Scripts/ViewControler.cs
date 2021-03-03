@@ -52,7 +52,7 @@ public class ViewControler : MonoBehaviour
         iTween.MoveTo(
             container,
             iTween.Hash(
-                "position", new Vector3(-403.3f, 0, 0f),
+                "position", new Vector3(-450f, 0, 0f),
                 "looktarget", Camera.main,
                 "easeType", iTween.EaseType.easeOutExpo,
                 "time", 1f,
@@ -66,7 +66,7 @@ public class ViewControler : MonoBehaviour
         iTween.MoveTo(
             container,
             iTween.Hash(
-                "position", new Vector3(401.91f, 0, 0f),
+                "position", new Vector3(450f, 0, 0f),
                 "looktarget", Camera.main,
                 "easeType", iTween.EaseType.easeOutExpo,
                 "time", 1f,

@@ -19,15 +19,18 @@ public class Manager : MonoBehaviour
     public XmlDocument globalInfo;
     public List<TextMeshProUGUI> MainView;
     public List<TextMeshProUGUI> SettingsView;
+    public List<TextMeshProUGUI> Controles1;
+    public List<TextMeshProUGUI> Controles2;
+    public List<TextMeshProUGUI> ControlesOpcion1;
+    public List<TextMeshProUGUI> ControlesOpcion2;
     
-    public KeyCode Up = KeyCode.A;
+    public KeyCode Up = KeyCode.W;
     public KeyCode Down = KeyCode.S;
     public KeyCode Right = KeyCode.D ;
     public KeyCode Left = KeyCode.A;
     public KeyCode Jump = KeyCode.Space;
     public KeyCode Fire1 = KeyCode.Z;
-    public KeyCode Fire2 = KeyCode.X;
-    public KeyCode Fire3 = KeyCode.C;
+
     void Awake(){
         if(_Manager == null){
             _Manager = this;
@@ -56,6 +59,18 @@ public class Manager : MonoBehaviour
 
             for (int i = 1; i < SettingsView.Count+1; i++)
                 SettingsView[i-1].text = globalInfo.SelectSingleNode("/data/element[@title='SettingsView"+i+"']").InnerText;
+
+            for (int i = 1; i < Controles1.Count + 1; i++)
+            {
+                Controles1[i-1].text = globalInfo.SelectSingleNode("/data/element[@title='controles"+i+"']").InnerText;
+                Controles2[i-1].text = globalInfo.SelectSingleNode("/data/element[@title='controles"+i+"']").InnerText;
+            }
+            
+            for (int i = 1; i < ControlesOpcion1.Count+1; i++)
+                ControlesOpcion1[i-1].text = globalInfo.SelectSingleNode("/data/element[@title='Opcion1."+i+"']").InnerText;
+
+            for (int i = 1; i < ControlesOpcion2.Count+1; i++)
+                ControlesOpcion2[i-1].text = globalInfo.SelectSingleNode("/data/element[@title='Opcion2."+i+"']").InnerText;
         }
         else
         {
@@ -69,19 +84,28 @@ public class Manager : MonoBehaviour
             for (int i = 1; i < SettingsView.Count+1; i++)
                 SettingsView[i-1].text = globalInfo.SelectSingleNode("/data/element[@title='SettingsView"+i+"']").InnerText;
 
+            for (int i = 1; i < Controles1.Count + 1; i++)
+            {
+                Controles1[i-1].text = globalInfo.SelectSingleNode("/data/element[@title='controles"+i+"']").InnerText;
+                Controles2[i-1].text = globalInfo.SelectSingleNode("/data/element[@title='controles"+i+"']").InnerText;
+            }
+            
+            for (int i = 1; i < ControlesOpcion1.Count+1; i++)
+                ControlesOpcion1[i-1].text = globalInfo.SelectSingleNode("/data/element[@title='Opcion1."+i+"']").InnerText;
+
+            for (int i = 1; i < ControlesOpcion2.Count+1; i++)
+                ControlesOpcion2[i-1].text = globalInfo.SelectSingleNode("/data/element[@title='Opcion2."+i+"']").InnerText;
         }
     }
 
     public void ControlerOpcion1()
     {
-        Up = KeyCode.A;
+        Up = KeyCode.W;
         Down = KeyCode.S;
         Right = KeyCode.D ;
         Left = KeyCode.A;
         Jump = KeyCode.Space;
         Fire1 = KeyCode.Z;
-        Fire2 = KeyCode.X;
-        Fire3 = KeyCode.C;
     }
     
     public void ControlerOpcion2()
@@ -92,8 +116,6 @@ public class Manager : MonoBehaviour
         Left = KeyCode.LeftArrow;
         Jump = KeyCode.C;
         Fire1 = KeyCode.A;
-        Fire2 = KeyCode.S;
-        Fire3 = KeyCode.D;
     }
 
 }

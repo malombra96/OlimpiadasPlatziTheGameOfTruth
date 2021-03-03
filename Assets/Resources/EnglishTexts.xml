@@ -9,4 +9,28 @@
     <element title="SettingsView3">Spanish</element>
     <element title="SettingsView4">English</element>
     <element title="SettingsView5">Back</element>
+    <element title="SettingsView6">Controls</element>
+    <element title="SettingsView7">Select</element>
+    <element title="SettingsView8">Select</element>
+
+    <element title="controles1">Up</element>
+    <element title="controles2">Down</element>
+    <element title="controles3">Right</element>
+    <element title="controles4">Left</element>
+    <element title="controles5">jum</element>
+    <element title="controles6">Fire</element>
+
+    <element title="Opcion1.1">W</element>
+    <element title="Opcion1.2">S</element>
+    <element title="Opcion1.3">D</element>
+    <element title="Opcion1.4">A</element>
+    <element title="Opcion1.5">jum</element>
+    <element title="Opcion1.6">z</element>
+
+    <element title="Opcion2.1">Up arrow</element>
+    <element title="Opcion2.2">Down arrow</element>
+    <element title="Opcion2.3">Right arrow</element>
+    <element title="Opcion2.4">Left arrow</element>
+    <element title="Opcion2.5">C</element>
+    <element title="Opcion2.6">A</element>
 </data>

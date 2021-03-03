@@ -9,5 +9,29 @@
     <element title="SettingsView3">Español</element>
     <element title="SettingsView4">Ingles</element>
     <element title="SettingsView5">Atras</element>
+    <element title="SettingsView6">Controles</element>
+    <element title="SettingsView7">Seleccionar</element>
+    <element title="SettingsView8">Seleccionar</element>
+    
+    <element title="controles1">Arriba</element>
+    <element title="controles2">Abajo</element>
+    <element title="controles3">Derecha</element>
+    <element title="controles4">Izquierda</element>
+    <element title="controles5">Salto</element>
+    <element title="controles6">Disparo</element>
+    
+    <element title="Opcion1.1">W</element>
+    <element title="Opcion1.2">S</element>
+    <element title="Opcion1.3">D</element>
+    <element title="Opcion1.4">A</element>
+    <element title="Opcion1.5">Espacio</element>
+    <element title="Opcion1.6">z</element>
+    
+    <element title="Opcion2.1">fecha arriba</element>
+    <element title="Opcion2.2">fecha abajo</element>
+    <element title="Opcion2.3">fecha derecha</element>
+    <element title="Opcion2.4">fecha izquierda</element>
+    <element title="Opcion2.5">C</element>
+    <element title="Opcion2.6">A</element>
     
 </data>
