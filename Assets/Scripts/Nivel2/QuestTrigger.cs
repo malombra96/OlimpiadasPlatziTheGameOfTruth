@@ -1,0 +1,36 @@
+﻿using System;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+[RequireComponent(typeof(BoxCollider2D))]
+public class QuestTrigger : MonoBehaviour
+{
+    private QuestManager manager;
+    public int questID;
+    public bool starPoint, endPoint;
+    void Start()
+    {
+        manager = FindObjectOfType<QuestManager>();
+    }
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.gameObject.tag.Equals("Player"))
+        {
+            if (!manager.questsCompleted[questID])
+            {
+                if (starPoint && !manager.quests[questID].gameObject.activeInHierarchy)
+                {
+                    manager.quests[questID].gameObject.SetActive(true);
+                    manager.quests[questID].StartQuest();
+                }
+
+                if (endPoint && manager.quests[questID].gameObject.activeInHierarchy)
+                {
+                    manager.quests[questID].CompletedQuests();
+                }
+            }
+        }
+    }
+}
