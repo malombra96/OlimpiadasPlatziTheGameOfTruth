@@ -59,12 +59,13 @@ public class PlayerControle : MonoBehaviour
             if (h > 0.1f)
             {
                 transform.localScale = new Vector3(1f, 1f, 1f);
-                animator.SetInteger("State", 2);
+                animator.SetInteger("State", 1);
             }
                 
             if(h < -0.1f)
             {
                 transform.localScale = new Vector3(-1f, 1f, 1f);
+                animator.SetInteger("State", 1);
             } 
            
             
