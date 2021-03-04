@@ -1,34 +1,31 @@
 fileFormatVersion: 2
-<<<<<<< HEAD:Assets/Sprites/Rogue/Idle/idle7.png.meta
-guid: d74623b1a356f774387ce4cb893f5c21
+guid: 27b94d1cbb44356429973b79a38a4a8d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2024415800004793864
-    second: idle7_0
-=======
-guid: ea5f4ca5e537ae744953b96260528e80
-TextureImporter:
-  internalIDToNameTable:
+      213: -9028002544440326595
+    second: 1Pink_Monster_Jump_8_0
   - first:
-      213: 4609454594883860815
-    second: 1Pink_Monster_Run_6_0
+      213: -8613182308902250076
+    second: 1Pink_Monster_Jump_8_1
   - first:
-      213: 1333284714595553349
-    second: 1Pink_Monster_Run_6_1
+      213: -2687204482052103490
+    second: 1Pink_Monster_Jump_8_2
   - first:
-      213: -1913749326896825953
-    second: 1Pink_Monster_Run_6_2
+      213: -2193909339354657602
+    second: 1Pink_Monster_Jump_8_3
   - first:
-      213: 5084050319110273807
-    second: 1Pink_Monster_Run_6_3
+      213: -2323363905866623885
+    second: 1Pink_Monster_Jump_8_4
   - first:
-      213: -4569626685208067213
-    second: 1Pink_Monster_Run_6_4
+      213: 5776018907924420653
+    second: 1Pink_Monster_Jump_8_5
   - first:
-      213: -4358580612082994134
-    second: 1Pink_Monster_Run_6_5
->>>>>>> 39c124999fb70ba34624bf81e95a648d1dc961d8:Assets/Sprites/1Pink_Monster_Run_6.png.meta
+      213: -8034243537855436711
+    second: 1Pink_Monster_Jump_8_6
+  - first:
+      213: -8779980793017101578
+    second: 1Pink_Monster_Jump_8_7
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -114,63 +111,33 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-<<<<<<< HEAD:Assets/Sprites/Rogue/Idle/idle7.png.meta
-      name: idle7_0
+      name: 1Pink_Monster_Jump_8_0
       rect:
         serializedVersion: 2
-        x: 31
-        y: 17
-        width: 41
-        height: 48
-=======
-      name: 1Pink_Monster_Run_6_0
-      rect:
-        serializedVersion: 2
-        x: 28
-        y: 3
-        width: 76
-        height: 102
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f493858388218ff30800000000000000
-      internalID: 4609454594883860815
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 1Pink_Monster_Run_6_1
-      rect:
-        serializedVersion: 2
-        x: 159
-        y: 2
-        width: 73
-        height: 110
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5401de54267c08210800000000000000
-      internalID: 1333284714595553349
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 1Pink_Monster_Run_6_2
-      rect:
-        serializedVersion: 2
-        x: 284
+        x: 27
         y: 0
-        width: 76
+        width: 68
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36cf4ba48716b280800000000000000
+      internalID: -9028002544440326595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Pink_Monster_Jump_8_1
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 80
         height: 104
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -179,20 +146,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f99fb2d602ff075e0800000000000000
-      internalID: -1913749326896825953
+      spriteID: 4a9d33c1354d77880800000000000000
+      internalID: -8613182308902250076
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1Pink_Monster_Run_6_3
+      name: 1Pink_Monster_Jump_8_2
       rect:
         serializedVersion: 2
-        x: 412
-        y: 2
-        width: 76
-        height: 102
+        x: 272
+        y: 0
+        width: 88
+        height: 104
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -200,19 +167,82 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f0b77ca24dc2e8640800000000000000
-      internalID: 5084050319110273807
+      spriteID: eb26270d2c125bad0800000000000000
+      internalID: -2687204482052103490
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1Pink_Monster_Run_6_4
+      name: 1Pink_Monster_Jump_8_3
       rect:
         serializedVersion: 2
-        x: 544
-        y: 4
+        x: 412
+        y: 0
+        width: 68
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc8a56641bad81e0800000000000000
+      internalID: -2193909339354657602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Pink_Monster_Jump_8_4
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 9
         width: 72
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3741bda56d0c1cfd0800000000000000
+      internalID: -2323363905866623885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Pink_Monster_Jump_8_5
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 2
+        width: 80
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2856c6189a882050800000000000000
+      internalID: 5776018907924420653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Pink_Monster_Jump_8_6
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 0
+        width: 88
         height: 108
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -221,21 +251,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3730700adbc6590c0800000000000000
-      internalID: -4569626685208067213
+      spriteID: 958262fc112a08090800000000000000
+      internalID: -8034243537855436711
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1Pink_Monster_Run_6_5
+      name: 1Pink_Monster_Jump_8_7
       rect:
         serializedVersion: 2
-        x: 672
+        x: 920
         y: 0
         width: 72
         height: 104
->>>>>>> 39c124999fb70ba34624bf81e95a648d1dc961d8:Assets/Sprites/1Pink_Monster_Run_6.png.meta
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -243,13 +272,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-<<<<<<< HEAD:Assets/Sprites/Rogue/Idle/idle7.png.meta
-      spriteID: 8f9a6034e84d7e3e0800000000000000
-      internalID: -2024415800004793864
-=======
-      spriteID: a2473eba6063383c0800000000000000
-      internalID: -4358580612082994134
->>>>>>> 39c124999fb70ba34624bf81e95a648d1dc961d8:Assets/Sprites/1Pink_Monster_Run_6.png.meta
+      spriteID: 6f29671bcfd372680800000000000000
+      internalID: -8779980793017101578
       vertices: []
       indices: 
       edges: []

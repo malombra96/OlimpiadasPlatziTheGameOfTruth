@@ -1,34 +1,64 @@
 fileFormatVersion: 2
-<<<<<<< HEAD:Assets/Sprites/Rogue/Idle/idle7.png.meta
-guid: d74623b1a356f774387ce4cb893f5c21
+guid: 38d8e721b1e538842b43b9e4a255d486
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2024415800004793864
-    second: idle7_0
-=======
-guid: ea5f4ca5e537ae744953b96260528e80
-TextureImporter:
-  internalIDToNameTable:
+      213: -2063978557067058165
+    second: 1Pink_Monster_Death_8_0
   - first:
-      213: 4609454594883860815
-    second: 1Pink_Monster_Run_6_0
+      213: -5443525101386365313
+    second: 1Pink_Monster_Death_8_1
   - first:
-      213: 1333284714595553349
-    second: 1Pink_Monster_Run_6_1
+      213: 218667247859660760
+    second: 1Pink_Monster_Death_8_2
   - first:
-      213: -1913749326896825953
-    second: 1Pink_Monster_Run_6_2
+      213: 8538271027117724873
+    second: 1Pink_Monster_Death_8_3
   - first:
-      213: 5084050319110273807
-    second: 1Pink_Monster_Run_6_3
+      213: -2256117767513233391
+    second: 1Pink_Monster_Death_8_5
   - first:
-      213: -4569626685208067213
-    second: 1Pink_Monster_Run_6_4
+      213: 7667983704668235143
+    second: 1Pink_Monster_Death_8_5
   - first:
-      213: -4358580612082994134
-    second: 1Pink_Monster_Run_6_5
->>>>>>> 39c124999fb70ba34624bf81e95a648d1dc961d8:Assets/Sprites/1Pink_Monster_Run_6.png.meta
+      213: -7906163163916740325
+    second: 1Pink_Monster_Death_8_6
+  - first:
+      213: -8748474230642021011
+    second: 1Pink_Monster_Death_8_5
+  - first:
+      213: 2332254648788858949
+    second: 1Pink_Monster_Death_8_8
+  - first:
+      213: -6756247960031864999
+    second: 1Pink_Monster_Death_8_9
+  - first:
+      213: -5514356640478398376
+    second: 1Pink_Monster_Death_8_10
+  - first:
+      213: 2283711873805551039
+    second: 1Pink_Monster_Death_8_11
+  - first:
+      213: 5214972378265325058
+    second: 1Pink_Monster_Death_8_12
+  - first:
+      213: -1947801314641389546
+    second: 1Pink_Monster_Death_8_13
+  - first:
+      213: 2105848302805803412
+    second: 1Pink_Monster_Death_8_14
+  - first:
+      213: 7130249868464500855
+    second: 1Pink_Monster_Death_8_15
+  - first:
+      213: -4418820626793143941
+    second: 1Pink_Monster_Death_8_16
+  - first:
+      213: -7618400577020267742
+    second: 1Pink_Monster_Death_8_17
+  - first:
+      213: 1257753371963838397
+    second: 1Pink_Monster_Death_8_18
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -114,64 +144,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-<<<<<<< HEAD:Assets/Sprites/Rogue/Idle/idle7.png.meta
-      name: idle7_0
+      name: 1Pink_Monster_Death_8_0
       rect:
         serializedVersion: 2
-        x: 31
-        y: 17
-        width: 41
-        height: 48
-=======
-      name: 1Pink_Monster_Run_6_0
-      rect:
-        serializedVersion: 2
-        x: 28
-        y: 3
-        width: 76
-        height: 102
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f493858388218ff30800000000000000
-      internalID: 4609454594883860815
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 1Pink_Monster_Run_6_1
-      rect:
-        serializedVersion: 2
-        x: 159
-        y: 2
-        width: 73
-        height: 110
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5401de54267c08210800000000000000
-      internalID: 1333284714595553349
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 1Pink_Monster_Run_6_2
-      rect:
-        serializedVersion: 2
-        x: 284
+        x: 12
         y: 0
-        width: 76
-        height: 104
+        width: 84
+        height: 116
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -179,20 +158,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f99fb2d602ff075e0800000000000000
-      internalID: -1913749326896825953
+      spriteID: b04aef110764b53e0800000000000000
+      internalID: -2063978557067058165
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1Pink_Monster_Run_6_3
+      name: 1Pink_Monster_Death_8_1
       rect:
         serializedVersion: 2
-        x: 412
-        y: 2
-        width: 76
-        height: 102
+        x: 140
+        y: 6
+        width: 88
+        height: 118
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -200,20 +179,83 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f0b77ca24dc2e8640800000000000000
-      internalID: 5084050319110273807
+      spriteID: f7681f5e2c6b474b0800000000000000
+      internalID: -5443525101386365313
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1Pink_Monster_Run_6_4
+      name: 1Pink_Monster_Death_8_2
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 2
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7ffa014bcd80300800000000000000
+      internalID: 218667247859660760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Pink_Monster_Death_8_7
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 0
+        width: 215
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1182de708d8a0b0e0800000000000000
+      internalID: -2256117767513233391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Pink_Monster_Death_8_6
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 0
+        width: 145
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19d676bd7aa74290800000000000000
+      internalID: -7906163163916740325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Pink_Monster_Death_8_5
       rect:
         serializedVersion: 2
         x: 544
-        y: 4
-        width: 72
-        height: 108
+        y: 0
+        width: 107
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -221,21 +263,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3730700adbc6590c0800000000000000
-      internalID: -4569626685208067213
+      spriteID: d6d6ce3e90d279680800000000000000
+      internalID: -8748474230642021011
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1Pink_Monster_Run_6_5
+      name: 1Pink_Monster_Death_8_15
       rect:
         serializedVersion: 2
-        x: 672
+        x: 675
         y: 0
-        width: 72
-        height: 104
->>>>>>> 39c124999fb70ba34624bf81e95a648d1dc961d8:Assets/Sprites/1Pink_Monster_Run_6.png.meta
+        width: 101
+        height: 56
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -243,13 +284,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-<<<<<<< HEAD:Assets/Sprites/Rogue/Idle/idle7.png.meta
-      spriteID: 8f9a6034e84d7e3e0800000000000000
-      internalID: -2024415800004793864
-=======
-      spriteID: a2473eba6063383c0800000000000000
-      internalID: -4358580612082994134
->>>>>>> 39c124999fb70ba34624bf81e95a648d1dc961d8:Assets/Sprites/1Pink_Monster_Run_6.png.meta
+      spriteID: 7703a994a7cb3f260800000000000000
+      internalID: 7130249868464500855
       vertices: []
       indices: 
       edges: []
