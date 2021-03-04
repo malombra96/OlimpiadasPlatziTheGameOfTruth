@@ -1,0 +1,2261 @@
+fileFormatVersion: 2
+guid: 71c04d84b6194954bb64368dbffae6f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2899319322078410158
+    second: Idle-1
+  - first:
+      213: 2595091488004119983
+    second: Jump-3
+  - first:
+      213: -2350372958927519240
+    second: Jump-4
+  - first:
+      213: -5201854463047266670
+    second: Jump-5
+  - first:
+      213: 95760805932595468
+    second: Walk-1
+  - first:
+      213: 1437797388149336374
+    second: Walk-2
+  - first:
+      213: 8181611771157558797
+    second: Walk-3
+  - first:
+      213: 2609424640849210935
+    second: Walk-4
+  - first:
+      213: 2635471384726783559
+    second: Walk-5
+  - first:
+      213: 3635835758243371138
+    second: Walk-6
+  - first:
+      213: -4895735085017229774
+    second: Jump-1
+  - first:
+      213: 5871475421241992924
+    second: Jump-2
+  - first:
+      213: 5898151997433942966
+    second: Jump-6
+  - first:
+      213: 4729644353852953533
+    second: Jump-7
+  - first:
+      213: -7667590349163041108
+    second: indice_14
+  - first:
+      213: -8088452285510698643
+    second: indice_15
+  - first:
+      213: 6586016679969461262
+    second: indice_16
+  - first:
+      213: 392027957896970949
+    second: indice_17
+  - first:
+      213: 3553134465923296597
+    second: run-1
+  - first:
+      213: -8613448206414287720
+    second: run-5
+  - first:
+      213: -1376562002854153634
+    second: indice_20
+  - first:
+      213: -8473762423525487405
+    second: indice_21
+  - first:
+      213: -8621803636428036303
+    second: indice_22
+  - first:
+      213: 3781300441535619169
+    second: run-2
+  - first:
+      213: -169138288144959966
+    second: run-3
+  - first:
+      213: 8348375174424735125
+    second: run-4
+  - first:
+      213: -9219095808449521674
+    second: run-6
+  - first:
+      213: -4210193915199986687
+    second: run-7
+  - first:
+      213: -3069354377683520279
+    second: run-8
+  - first:
+      213: -7435110298191240273
+    second: indice_29
+  - first:
+      213: -4904149940828001693
+    second: Hurt-1
+  - first:
+      213: -5207182743590940969
+    second: Hurt-2
+  - first:
+      213: -9175862192787694140
+    second: Hurt-3
+  - first:
+      213: -5564355947542333448
+    second: indice_33
+  - first:
+      213: -441348291124677970
+    second: Hurt-4
+  - first:
+      213: -5276954795092101851
+    second: indice_35
+  - first:
+      213: 4282227120090029702
+    second: High Jump-5
+  - first:
+      213: -7927640717827317762
+    second: indice_37
+  - first:
+      213: -251809872715460403
+    second: indice_38
+  - first:
+      213: 6882060001621494278
+    second: indice_39
+  - first:
+      213: 1209780869397949307
+    second: indice_40
+  - first:
+      213: -6980266038503171486
+    second: indice_41
+  - first:
+      213: -3891439557307167037
+    second: indice_42
+  - first:
+      213: 3061230923812367567
+    second: indice_43
+  - first:
+      213: 928945578388650221
+    second: High Jump-1
+  - first:
+      213: -344713709932755431
+    second: High Jump-2
+  - first:
+      213: 6436921849856198611
+    second: High Jump-3
+  - first:
+      213: -1684848237336710727
+    second: High Jump-4
+  - first:
+      213: -7336551598074801545
+    second: Death-9
+  - first:
+      213: -5676127748105688660
+    second: indice_49
+  - first:
+      213: -1006819286386930273
+    second: indice_50
+  - first:
+      213: -1456871577548896432
+    second: indice_51
+  - first:
+      213: -539072923098537732
+    second: indice_52
+  - first:
+      213: 6134247495749241615
+    second: indice_53
+  - first:
+      213: -6704880306808026272
+    second: indice_54
+  - first:
+      213: -6954581130719053977
+    second: indice_55
+  - first:
+      213: 38557580987939509
+    second: Death-1
+  - first:
+      213: 9058872058454059430
+    second: indice_57
+  - first:
+      213: 7329281329020680762
+    second: Death-2
+  - first:
+      213: 2894233717125490938
+    second: indice_59
+  - first:
+      213: -3624612788301559233
+    second: indice_60
+  - first:
+      213: 1658863230963842251
+    second: Death-3
+  - first:
+      213: 4801032037983900206
+    second: indice_62
+  - first:
+      213: -6684311942577270301
+    second: indice_63
+  - first:
+      213: 198207210403846760
+    second: indice_64
+  - first:
+      213: -4269843159001056146
+    second: indice_65
+  - first:
+      213: -6009863273891689549
+    second: indice_66
+  - first:
+      213: -5221885343962219532
+    second: indice_67
+  - first:
+      213: -1560702390733728908
+    second: indice_68
+  - first:
+      213: -7668665463901255117
+    second: indice_69
+  - first:
+      213: -776862295259087532
+    second: indice_70
+  - first:
+      213: -6335966706012891338
+    second: indice_71
+  - first:
+      213: -8121798928334725477
+    second: indice_72
+  - first:
+      213: 8356945036984428997
+    second: Death-4
+  - first:
+      213: 8844348503887965331
+    second: Death-5
+  - first:
+      213: 5930856232772661612
+    second: indice_75
+  - first:
+      213: 7900784729546852170
+    second: indice_76
+  - first:
+      213: 7293010351357358329
+    second: indice_77
+  - first:
+      213: -2764862222971205453
+    second: indice_78
+  - first:
+      213: -8840906992868226968
+    second: indice_79
+  - first:
+      213: -1722843189723802024
+    second: indice_80
+  - first:
+      213: 1224928174243161569
+    second: indice_81
+  - first:
+      213: 9107599408788055314
+    second: indice_82
+  - first:
+      213: -8324990305319143122
+    second: indice_83
+  - first:
+      213: 8366452940515109945
+    second: indice_84
+  - first:
+      213: -6276258858522309627
+    second: indice_85
+  - first:
+      213: -2101615914571704391
+    second: indice_86
+  - first:
+      213: 4277808713060120504
+    second: indice_87
+  - first:
+      213: 1172984190521698010
+    second: indice_88
+  - first:
+      213: 8707988491959596088
+    second: indice_89
+  - first:
+      213: -8110764487971800933
+    second: indice_90
+  - first:
+      213: 5461053861829284921
+    second: indice_91
+  - first:
+      213: 9201997623487965912
+    second: indice_92
+  - first:
+      213: -6709821874599420842
+    second: indice_93
+  - first:
+      213: -2396191483909030244
+    second: indice_94
+  - first:
+      213: -836199047638755316
+    second: indice_95
+  - first:
+      213: 8826255502831933558
+    second: indice_96
+  - first:
+      213: -6414615155656570128
+    second: indice_97
+  - first:
+      213: -4804015352786947326
+    second: indice_98
+  - first:
+      213: -7132257908648006716
+    second: indice_99
+  - first:
+      213: 776163246524690126
+    second: indice_100
+  - first:
+      213: 612228767920323294
+    second: indice_101
+  - first:
+      213: -5945784091823386288
+    second: indice_102
+  - first:
+      213: 9108973248199634046
+    second: indice_103
+  - first:
+      213: -7626370809143544828
+    second: indice_104
+  - first:
+      213: 6208273563168592126
+    second: Death-8
+  - first:
+      213: -5589885622867919816
+    second: indice_106
+  - first:
+      213: -7313325103147343278
+    second: indice_107
+  - first:
+      213: 2151192280037472185
+    second: indice_108
+  - first:
+      213: 9037464579623120143
+    second: indice_109
+  - first:
+      213: 191679934753293084
+    second: indice_110
+  - first:
+      213: -4341540833167411691
+    second: indice_111
+  - first:
+      213: 1186373177077787989
+    second: indice_112
+  - first:
+      213: 2035286424402674640
+    second: indice_113
+  - first:
+      213: 7555822027857190333
+    second: indice_114
+  - first:
+      213: 2070765800480009323
+    second: indice_115
+  - first:
+      213: -4922194165152485548
+    second: indice_116
+  - first:
+      213: -8501917215141744849
+    second: Death-6
+  - first:
+      213: -6422086721388688349
+    second: indice_118
+  - first:
+      213: 492261538362401863
+    second: indice_119
+  - first:
+      213: -8243542956885857226
+    second: indice_120
+  - first:
+      213: 2452388094973372948
+    second: indice_121
+  - first:
+      213: -877526354725880683
+    second: indice_122
+  - first:
+      213: -8379065210317063157
+    second: indice_123
+  - first:
+      213: 5761488190585553570
+    second: Death-7
+  - first:
+      213: -3117304670333031987
+    second: indice_125
+  - first:
+      213: 5004968009419732761
+    second: indice_126
+  - first:
+      213: -6486552029412049241
+    second: indice_127
+  - first:
+      213: 7347071219868244986
+    second: indice_128
+  - first:
+      213: -8130497659030845553
+    second: Walk and Attack-1
+  - first:
+      213: 3541906538009117509
+    second: Walk and Attack-2
+  - first:
+      213: 7101115159602278186
+    second: Walk and Attack-3
+  - first:
+      213: 7319545962912799120
+    second: Walk and Attack-4
+  - first:
+      213: -1475227125197415716
+    second: Walk and Attack-5
+  - first:
+      213: 8290394831092777829
+    second: Walk and Attack-6
+  - first:
+      213: -6745247674885750061
+    second: indice_135
+  - first:
+      213: 5031744877360301386
+    second: Idle-2
+  - first:
+      213: -5089072990292569088
+    second: Idle-3
+  - first:
+      213: -3928806854659355967
+    second: Idle-4
+  - first:
+      213: -5253961867355023583
+    second: Idle-5
+  - first:
+      213: 7522720259514068696
+    second: Idle-6
+  - first:
+      213: -8192671570021408939
+    second: Idle-7
+  - first:
+      213: -2524178137194352177
+    second: Run and Attack-1
+  - first:
+      213: -625951079751838157
+    second: Run and Attack-2
+  - first:
+      213: 4632767770910694241
+    second: Run and Attack-3
+  - first:
+      213: 5110053079524384237
+    second: Run and Attack-4
+  - first:
+      213: -9091470801406167760
+    second: Run and Attack-5
+  - first:
+      213: 3540424030878132366
+    second: Run and Attack-6
+  - first:
+      213: 8786716258055449961
+    second: Run and Attack-8
+  - first:
+      213: -4432807377183306794
+    second: Run and Attack-8
+  - first:
+      213: -6415418258697555717
+    second: Attack-1
+  - first:
+      213: -4007724627274239953
+    second: Attack-2
+  - first:
+      213: 5280228018932151871
+    second: Attack-3
+  - first:
+      213: 5351029383722463110
+    second: Attack-4
+  - first:
+      213: 6993645404243530036
+    second: Attack-5
+  - first:
+      213: -3257418679789776838
+    second: Attack-6
+  - first:
+      213: -566558403335156935
+    second: Attack-7
+  - first:
+      213: 5422603959559992597
+    second: Extra Attack-1
+  - first:
+      213: -8907986737889852553
+    second: Extra Attack-2
+  - first:
+      213: -1342689426863255620
+    second: Extra Attack-3
+  - first:
+      213: 7525125564372794644
+    second: Extra Attack-4
+  - first:
+      213: 6755888530393816120
+    second: Extra Attack-5
+  - first:
+      213: 7517839940257266716
+    second: Extra Attack-6
+  - first:
+      213: 5411116102763370165
+    second: Extra Attack-7
+  - first:
+      213: -6225286254452622371
+    second: Extra Attack-8
+  - first:
+      213: -2009517547353213156
+    second: Extra Attack-9
+  - first:
+      213: -4964807748630241641
+    second: Extra Attack-10
+  - first:
+      213: 624548398393257483
+    second: indice_167
+  - first:
+      213: 8253577430478128930
+    second: Extra Attack-11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Idle-1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 805
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5f8eaef837c3820800000000000000
+      internalID: 2899319322078410158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump-3
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 775
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad102e75fd930420800000000000000
+      internalID: 2595091488004119983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump-4
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 779
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f101752f3cc16fd0800000000000000
+      internalID: -2350372958927519240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump-5
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 770
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e89cc2dec4fc7b0800000000000000
+      internalID: -5201854463047266670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk-1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 735
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09740512f5345100800000000000000
+      internalID: 95760805932595468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk-2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 735
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63920a35b1514f310800000000000000
+      internalID: 1437797388149336374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk-3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 734
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06300ece8cea8170800000000000000
+      internalID: 8181611771157558797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk-4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 734
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ee7f1b2e9863420800000000000000
+      internalID: 2609424640849210935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk-5
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 736
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746c856d243139420800000000000000
+      internalID: 2635471384726783559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk-6
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 736
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28852cfcb55157230800000000000000
+      internalID: 3635835758243371138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump-1
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 738
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236912ff0eade0cb0800000000000000
+      internalID: -4895735085017229774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump-2
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 744
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6e09689cbab7150800000000000000
+      internalID: 5871475421241992924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump-6
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 749
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b39f4eedf17ad150800000000000000
+      internalID: 5898151997433942966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump-7
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 737
+        width: 52
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db356592b7213a140800000000000000
+      internalID: 4729644353852953533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run-1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 649
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d2e80b8f44f4130800000000000000
+      internalID: 3553134465923296597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run-5
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 647
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c63750e72e67880800000000000000
+      internalID: -8613448206414287720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run-2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 640
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16022c6a7b0e97430800000000000000
+      internalID: 3781300441535619169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run-3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 644
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226b3318f9917adf0800000000000000
+      internalID: -169138288144959966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run-4
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 643
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59da6435df26bd370800000000000000
+      internalID: 8348375174424735125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run-6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 645
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7d21305313f0080800000000000000
+      internalID: -9219095808449521674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run-7
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 644
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1046ef0d0f26295c0800000000000000
+      internalID: -4210193915199986687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run-8
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 643
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e43264a4767765d0800000000000000
+      internalID: -3069354377683520279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurt-1
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 643
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36aa1b3bc95f0fbb0800000000000000
+      internalID: -4904149940828001693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurt-2
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 643
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dec7bf22ee5cb7b0800000000000000
+      internalID: -5207182743590940969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurt-3
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 643
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdd3f293f9c8a080800000000000000
+      internalID: -9175862192787694140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurt-4
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 643
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2b94d411400e9f0800000000000000
+      internalID: -441348291124677970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: High Jump-5
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 547
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e9284a0e68d6b30800000000000000
+      internalID: 4282227120090029702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: High Jump-1
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 563
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8768fe41744ec00800000000000000
+      internalID: 928945578388650221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: High Jump-2
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 561
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916404a05b4573bf0800000000000000
+      internalID: -344713709932755431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: High Jump-3
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 564
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d701a3715a845950800000000000000
+      internalID: 6436921849856198611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: High Jump-4
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 559
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b13a1174773e98e0800000000000000
+      internalID: -1684848237336710727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death-9
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 430
+        width: 107
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7725d6831355f2a90800000000000000
+      internalID: -7336551598074801545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death-1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 460
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba3f266aebf88000800000000000000
+      internalID: 38557580987939509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death-2
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 460
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a3e2b5986d6b560800000000000000
+      internalID: 7329281329020680762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death-3
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 462
+        width: 81
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc7e8cc157750710800000000000000
+      internalID: 1658863230963842251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death-4
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 450
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9abe0fb35d9f370800000000000000
+      internalID: 8356945036984428997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death-5
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 450
+        width: 85
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ceffbda107dba70800000000000000
+      internalID: 8844348503887965331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death-8
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 432
+        width: 126
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0dc11b9e7382650800000000000000
+      internalID: 6208273563168592126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death-6
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 446
+        width: 93
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fa2b1865f130a80800000000000000
+      internalID: -8501917215141744849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death-7
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 436
+        width: 113
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2c571dbfae4ff40800000000000000
+      internalID: 5761488190585553570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk and Attack-1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 347
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f874252d47baa2f80800000000000000
+      internalID: -8130497659030845553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk and Attack-2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 349
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543caa10b31672130800000000000000
+      internalID: 3541906538009117509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk and Attack-3
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 348
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4438739}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f2c354d9a3c8260800000000000000
+      internalID: 7101115159602278186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk and Attack-4
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 348
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099df8cc540449560800000000000000
+      internalID: 7319545962912799120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk and Attack-5
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 348
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda5697eeb0f68be0800000000000000
+      internalID: -1475227125197415716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk and Attack-6
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 350
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563050bac266d0370800000000000000
+      internalID: 8290394831092777829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle-2
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 353
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45c37f7e4954d540800000000000000
+      internalID: 5031744877360301386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle-3
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 353
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0049391141bff59b0800000000000000
+      internalID: -5089072990292569088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle-4
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 355
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cac8ec3bf21a79c0800000000000000
+      internalID: -3928806854659355967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle-5
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 354
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1271bd0b48d2617b0800000000000000
+      internalID: -5253961867355023583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle-6
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 355
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de68fc0832166860800000000000000
+      internalID: 7522720259514068696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle-7
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 353
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f9e6b1d98cd4e80800000000000000
+      internalID: -8192671570021408939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run and Attack-1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 267
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc139be9b5158fcd0800000000000000
+      internalID: -2524178137194352177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run and Attack-2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 263
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3369e943fcc2057f0800000000000000
+      internalID: -625951079751838157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run and Attack-3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 263
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b92000eb5ea4040800000000000000
+      internalID: 4632767770910694241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run and Attack-4
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 262
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded117c933e8ae640800000000000000
+      internalID: 5110053079524384237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run and Attack-5
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 262
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035795c897b94d180800000000000000
+      internalID: -9091470801406167760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run and Attack-6
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 262
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e886fbae5ec122130800000000000000
+      internalID: 3540424030878132366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run and Attack-7
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 263
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d6b87f1efa0f970800000000000000
+      internalID: 8786716258055449961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run and Attack-8
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 262
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db024d2d218b72c0800000000000000
+      internalID: -4432807377183306794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 157
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0f6c4851bd7f6a0800000000000000
+      internalID: -6415418258697555717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 158
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20fbb17fa3b168c0800000000000000
+      internalID: -4007724627274239953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-3
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 158
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36f3894863274940800000000000000
+      internalID: 5280228018932151871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 157
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f647f9fdca24a40800000000000000
+      internalID: 5351029383722463110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 158
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4319af4f07b6e0160800000000000000
+      internalID: 6993645404243530036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-6
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 157
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30986228f25bc2d0800000000000000
+      internalID: -3257418679789776838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-7
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 157
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b02b8422e2328f0800000000000000
+      internalID: -566558403335156935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra Attack-1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 49
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515333f2295f04b40800000000000000
+      internalID: 5422603959559992597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra Attack-2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 49
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7734f282249706480800000000000000
+      internalID: -8907986737889852553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra Attack-3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 50
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf8424841fcd5de0800000000000000
+      internalID: -1342689426863255620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra Attack-4
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 51
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41db6aab4dd9e6860800000000000000
+      internalID: 7525125564372794644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra Attack-5
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 49
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c524cf2dcb1cd50800000000000000
+      internalID: 6755888530393816120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra Attack-6
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 50
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c374d289bb45860800000000000000
+      internalID: 7517839940257266716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra Attack-7
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 48
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b65b971d65281b40800000000000000
+      internalID: 5411116102763370165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra Attack-8
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 49
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbba3272275b99a0800000000000000
+      internalID: -6225286254452622371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra Attack-9
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 47
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17f8140072cc14e0800000000000000
+      internalID: -2009517547353213156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra Attack-10
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 49
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e99c448a5791bb0800000000000000
+      internalID: -4964807748630241641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra Attack-11
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 49
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22784d591f89a8270800000000000000
+      internalID: 8253577430478128930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
